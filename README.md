@@ -1,4 +1,4 @@
-# local youtube dockerized!
+# Local YouTube Dockerized!
 
 ------
 Local youtube dockerized is based on user234683 [youtube-local](https://github.com/user234683/youtube-local).
