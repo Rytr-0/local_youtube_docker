@@ -1,0 +1,12 @@
+version: "3"
+services:
+  youtubelocal:
+    container_name: youtube_local
+    image: localyoutubeimg:latest	
+    ports:
+      - 6969:8080
+    stdin_open: true
+    tty: true
+    volumes:
+        - ./LYT_testing:/localYT/
+    restart: unless-stopped
