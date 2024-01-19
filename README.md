@@ -13,10 +13,12 @@ Or you can build the image yourself:
 
 ### Docker build:
 
-`git clone https://github.com/Rytr-0/local_youtube_docker.git
+```
+git clone https://github.com/Rytr-0/local_youtube_docker.git
 cd local_youtube_docker
 cd youtube-local
-docker build -t localyoutube .`
+docker build -t localyoutube .
+```
 
 ### Docker compose:
 
@@ -37,9 +39,11 @@ Therefore, mapping the volume allows to change the setings from the **settings.t
 
 Once you provide the duplicate directory or the volume, you can run :
  
-`cd local_youtube_docker
+```
+cd local_youtube_docker
 docker compose up
-`
+```
+
 Now it's started!
 
 #### Running with no volume:
