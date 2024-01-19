@@ -58,7 +58,7 @@ To do that just go into the **compose.yml** file and *delete the lines 10-11 wit
 
 ### Website:
 
-If I make anything, it will be on my website [here](Rytr0.com)
+If I make anything, it will be on my website [here](https://Rytr0.com)
 
 ## Credit:
 
