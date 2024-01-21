@@ -2,7 +2,7 @@ version: "3"
 services:
   youtubelocal:
     container_name: youtube_local
-    image: rytrx0/localyoutube:latest	
+    image: rytrx0/localyoutube:latest
     ports:
       - 6969:8080
     stdin_open: true
