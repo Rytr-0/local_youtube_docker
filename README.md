@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Local YouTube Dockerized!
 
 ------
@@ -41,4 +42,3 @@ If I make anything, it will be on my website [here](https://Rytr0.com)
 ## Credit:
 
 Credit for user234683 for the awesome [youtube-local](https://github.com/user234683/youtube-local) 
-
